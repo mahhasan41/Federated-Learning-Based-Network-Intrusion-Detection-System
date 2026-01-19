@@ -344,13 +344,10 @@ pipeline.save_results(results)
 
 ---
 
-## 🎓 Resume Highlights
 
-### Project Summary (2-3 Lines)
+## Project Summary (2-3 Lines)
 
 Engineered a **privacy-preserving Federated Learning-based Network Intrusion Detection System** achieving **94-96% accuracy** in multi-class attack classification on CIC-IDS 2017 dataset across **4 distributed clients** without centralizing sensitive network traffic data.
-
-### Resume Bullets
 
 1. **🎯 Federated Learning Implementation**
    - Implemented FedAvg (Federated Averaging) algorithm for secure model aggregation
