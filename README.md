@@ -529,7 +529,7 @@ This project is provided as-is for educational and research purposes.
 **Author**: Md. Mahmudol Hasan  
 **Project**: Federated Learning-Based Network Intrusion Detection System  
 **Purpose**: Portfolio demonstration of federated learning, cybersecurity, and distributed ML  
-**Date**: October, 2025
+**Date**: November, 2025
 
 ---
 
